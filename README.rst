@@ -1,3 +1,11 @@
+The original repository has moved to Read Only. A good product must live, that's why it exists here.
+I will check the status of Merge and your changes.
+Any changes are welcome.
+I will slowly study the code and merge everything that is in the original repository.
+
+Official repository : This repository has been archived by the owner on Apr 27, 2021. It is now read-only.
+
+
 .. image:: https://cuckoosandbox.org/assets/images/cuckoo-black.png
    :alt: Cuckoo Sandbox
    :target: https://cuckoosandbox.org/
